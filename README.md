@@ -33,7 +33,6 @@ pip install -r requirements.txt
 1. Clone the repository:
 ```bash
 git clone https://github.com/RichaKumari10/Web-Phishing.git
-cd phishing-detector
 ```
 
 2. Install dependencies:
