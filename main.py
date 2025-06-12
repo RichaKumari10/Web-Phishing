@@ -136,6 +136,6 @@ st.markdown("---")
 st.markdown("""
 <div style='text-align: center'>
     <small>Made with ❤️ using Streamlit • 
-    <a href="https://github.com/yourusername/phishing-detector">GitHub</a></small>
+    <a href="https://github.com/RichaKumari10/phishing-detector">GitHub</a></small>
 </div>
 """, unsafe_allow_html=True)
